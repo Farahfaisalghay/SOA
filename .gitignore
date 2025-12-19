@@ -1,0 +1,15 @@
+# Java/Tomcat ignores
+*.class
+.project
+.classpath
+.settings/
+work/
+temp/
+logs/
+
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
